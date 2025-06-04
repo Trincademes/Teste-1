@@ -8,14 +8,14 @@
 - **FluentValidation** – Validação fluente e desacoplada de dados.
 - **Swagger (Swashbuckle)** – Documentação interativa da API.
 
-##Segurança e Autenticação
+## Segurança e Autenticação
 - **ASP.NET Identity** – Gerenciamento completo de usuários, senhas e funções.
 - **JWT (JSON Web Tokens)** – Autenticação baseada em tokens.
 - **Role-based Authorization** – Controle de acesso por tipo de usuário (Aluno, Professor, Admin).
 - **Authorization Policies** – Regras personalizadas para controle de permissões.
 - **CORS & CSRF Protection** – Segurança entre domínios e proteção contra ataques.
 
-##Testes Automatizados
+## Testes Automatizados
 - **xUnit** – Estrutura para testes unitários.
 - **Moq** – Biblioteca para simular dependências (mocking).
 - **FluentAssertions** – Sintaxe mais expressiva para asserções.
@@ -23,7 +23,7 @@
 - **TestServer** – Testes de integração simulando chamadas HTTP reais.
 - **Coverlet** – Análise de cobertura de testes.
 
-##Extras e Boas Práticas
+## Extras e Boas Práticas
 - **Serilog** – Logging estruturado com suporte a diversos sinks (console, arquivo, banco).
 - **MediatR** (opcional) – Implementação do padrão CQRS.
 - **Repository Pattern + Unit of Work** – Organização e abstração do acesso a dados.
