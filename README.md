@@ -5,7 +5,6 @@
 - **ASP.NET Core 7+** – Framework principal para construção de APIs RESTful.
 - **Entity Framework Core** – ORM para acesso e manipulação de dados.
 - **AutoMapper** – Mapeamento automático entre entidades e DTOs.
-- **FluentValidation** – Validação fluente e desacoplada de dados.
 - **Swagger (Swashbuckle)** – Documentação interativa da API.
 
 ## Segurança e Autenticação
