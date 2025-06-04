@@ -1,7 +1,7 @@
 
 # Tecnologias Utilizadas
 
-##Framework e Plataforma
+## Framework e Plataforma
 - **ASP.NET Core 7+** – Framework principal para construção de APIs RESTful.
 - **Entity Framework Core** – ORM para acesso e manipulação de dados.
 - **AutoMapper** – Mapeamento automático entre entidades e DTOs.
